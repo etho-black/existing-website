@@ -1,29 +1,27 @@
 {
   "name": "Ether-1",
-  "slogan": "Decentralize Everything",
+  "slogan": "Desentraliser Alt",
   "description": "",
-  "language": "Language: ",
 
   "navbar": {
-    "home": "HOME",
-    "about": "ABOUT US",
+    "home": "HJEM",
+    "about": "OM OSS",
     "team": "TEAM",
     "ethofs": "ETHOFS",
-    "contact": "CONTACT US",
-    "explorer": "EXPLORER"
+    "contact": "KONTAKT OSS"
   },
 
   "hero": {
     "heading1": "Get Your Sites!!!",
     "heading2": "A Kickstart Now!",
     "small-desc": "There’s no need to be a technical professional to create sites with AeroLand. With simple guides, everything is easy!",
-    "button": "Try ethoFS"
+    "button": "Prøv ethoFS"
   },
 
   "about": {
     "heading1": "We design powerful websites for ",
     "heading2": "landing your success.",
-    "features": "ethoFS Features",
+    "features": "ethoFS Egenskaper",
     "feat-content": {
       "desc": "Meeting all of your requirements for SEO & branding",
       "item1": "Receive real-time business analytics",
@@ -35,7 +33,7 @@
       "learn": "Learn More"
     },
 
-    "mission": "Our Mission",
+    "mission": "Vårt Oppdrag",
 
     "missions": {
       "heading1": "The best ways",
@@ -47,28 +45,8 @@
   },
 
   "team": {
-    "heading1": "Ether-1 Core Developers",
-    "james": "Dev-James",
-    "james-role": "Founder & Core Developer",
-    "fallen": "Ethan van Ballegooyen",
-    "fallen-role": "Core Developer",
-    "dylie": "Dylie",
-    "dylie-role": "Core Developer",
-    "dev": {
-      "heading1": "Ether-1 Developers",
-      "exlo": "Exlo",
-      "exlo-role": "Developer"
-    },
-    "council": {
-      "heading1": "Ether-1 Council",
-      "role": "Ether-1 Provisional Council Member",
-      "primate": "Primate",
-      "pistol": "Pistol",
-      "cable": "CableGod",
-      "big": "Bigpiggy01",
-      "dylie": "Dylie",
-      "goose": "Goose",
-      "chris": "Chris Terry"
-    }
+    "heading1": "Ether-1 Developers",
+    "james": "James",
+    "james-role": "Grunnlegger & Core Developer"
   }
 }

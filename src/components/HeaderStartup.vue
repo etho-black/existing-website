@@ -13,20 +13,26 @@
         <b-nav-item href="#home" class="scroll"><span>{{ $t('navbar.home') }}</span></b-nav-item>
         <b-nav-item href="#about" class="scroll"><span>{{ $t('navbar.about') }}</span></b-nav-item>
         <b-nav-item href="#team" class="scroll"><span>{{ $t('navbar.team') }}</span></b-nav-item>
+        <b-nav-item href="#contact" class="scroll"><span>{{ $t('navbar.explorer') }}</span></b-nav-item>
         <b-nav-item href="#ethofs" class="scroll"><span>{{ $t('navbar.ethofs') }}</span></b-nav-item>
-        <b-nav-item href="#contact" class="scroll"><span>{{ $t('navbar.contact') }}</span></b-nav-item>
+        <b-nav-item href="https://explorer.ether1.org" class="scroll"><span>{{ $t('navbar.contact') }}</span></b-nav-item>
       </b-navbar-nav>
+      <b-btn-group class="button--white">
+        <ChangeLocal />
+      </b-btn-group>
     </b-collapse>
-    <b-btn-group class="header-button button--white d-none d-xl-block">
-      <b-link class="btn btn--white">Hire Us Now</b-link>
-    </b-btn-group>
   </div>
 </b-navbar>
 </template>
 
 <script>
+import ChangeLocal from '../components/ChangeLocal'
+
 export default {
   name: 'Navbar',
+  components: {
+    ChangeLocal
+  },
   data() {
     return {
       load: false,

@@ -41,7 +41,7 @@ h1,
 .h1 {
     font-size: 56px;
     @media #{$desktop-device}{
-      font-size: 46px; 
+      font-size: 46px;
     }
     @media #{$tablet-device}{
       font-size: 40px;
@@ -54,7 +54,7 @@ h2,
 .h2 {
     font-size: 48px;
     @media #{$desktop-device}{
-      font-size: 36px; 
+      font-size: 36px;
     }
     @media #{$tablet-device}{
       font-size: 36px;
@@ -67,7 +67,7 @@ h3,
 .h3 {
     font-size: 40px;
     @media #{$desktop-device}{
-      font-size: 32px; 
+      font-size: 32px;
     }
     @media #{$tablet-device}{
       font-size: 28px;
@@ -79,7 +79,7 @@ h3,
 h4 {
     font-size: 34px;
     @media #{$desktop-device}{
-      font-size: 30px; 
+      font-size: 30px;
     }
     @media #{$tablet-device}{
       font-size: 28px;
@@ -147,10 +147,10 @@ ul {
 
 .font-weight--light {
     font-weight: 400;
-} 
+}
 .font-weight--bold {
     font-weight: 500;
-}  
+}
 .bg-gray {
     background: #F5F7FD;
 }
@@ -203,8 +203,6 @@ select {
     outline: none;
     border: 1px solid #f8f8f8;
     border-radius: 5px;
-    background: #f8f8f8 url("../img/icons/selector-icon.png") no-repeat center right 20px;
-        background-color: rgb(248, 248, 248);
     -moz-appearance: none;
     -webkit-appearance: none;
 }
@@ -400,8 +398,8 @@ select {
       }
     }
 }
-    
-    
+
+
 .swiper-pagination-bullet-active{
     &:before{
       width: 12px;
@@ -542,7 +540,7 @@ select {
     }
 }
 /*===================================
-    - Breadvrumb  
+    - Breadvrumb
 =================================*/
 
 .gradient--secondary {
@@ -647,7 +645,7 @@ select {
     @media #{$large-mobile}{
         padding-bottom: 20px;
     }
-    
+
 }
 /*---- banner sass emd ----*/
 
@@ -663,7 +661,7 @@ select {
 /*----- hero swiper slider button start -----*/
 
 .hero-swiper-btn {
-    .swiper-button-prev, 
+    .swiper-button-prev,
     .swiper-button-next {
         font-size: 25px;
         color: #fff;
@@ -691,7 +689,7 @@ select {
     }
     .swiper-container {
         &:hover {
-            .swiper-button-prev, 
+            .swiper-button-prev,
             .swiper-button-next {
                 opacity: 1;
                 visibility: visible;
@@ -701,5 +699,3 @@ select {
 }
 
 /*----- hero swiper slider button end -----*/
-
-

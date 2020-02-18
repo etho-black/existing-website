@@ -71,6 +71,8 @@
 
   <!-- team component -->
   <TeamOne />
+  <TeamDev />
+  <TeamCouncil />
 
   <!-- tab conetent section -->
   <TabThree />
@@ -101,6 +103,8 @@ import CarouselStartup from '../components/CarouselStartup'
 import ContactForm from '../components/ContactForm'
 import CtaFour from '../components/CtaFour'
 import FooterMain from '../components/FooterMain'
+import TeamDev from '../components/TeamDev'
+import TeamCouncil from'../components/TeamCouncil'
 
 export default {
   name: 'app',
@@ -114,7 +118,9 @@ export default {
     CarouselStartup,
     ContactForm,
     CtaFour,
-    FooterMain
+    FooterMain,
+    TeamDev,
+    TeamCouncil
   }
 }
 </script>
