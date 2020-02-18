@@ -55,12 +55,12 @@
   </div>-->
 
   <!-- tab conetent section -->
-  <div class="tabs-wrapper startup-tab section-space--mt_30 section-space--pb_120">
+  <div class="tabs-wrapper startup-tab section-space--mt_30 section-space--pb_120" id="about">
     <div class="container">
       <div class="row">
         <div class="col-lg-12">
           <div class="section-title-wrapper text-center section-space--mb_60 wow move-up">
-            <h2 class="section-title font-weight--bold mb-15">We design powerful websites for <br> landing your success.</h2>
+            <h2 class="section-title font-weight--bold mb-15">{{ $t('about.heading1') }}<br>{{ $t('about.heading2') }}</h2>
           </div>
         </div>
       </div>

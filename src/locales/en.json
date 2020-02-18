@@ -1,3 +1,34 @@
 {
-  "message": "hello i18n !!"
+  "name": "Ether-1",
+  "slogan": "Decentralize Everything",
+  "description": "",
+  "navbar": {
+    "home": "HOME",
+    "about": "ABOUT US",
+    "team": "TEAM",
+    "ethofs": "ETHOFS",
+    "contact": "CONTACT US"
+  },
+  "hero": {
+    "heading1": "Get Your Sites!!!",
+    "heading2": "A Kickstart Now!",
+    "small-desc": "There’s no need to be a technical professional to create sites with AeroLand. With simple guides, everything is easy!",
+    "button": "Try ethoFS"
+  },
+  "about": {
+    "heading1": "We design powerful websites for ",
+    "heading2": "landing your success.",
+    "features": "ethoFS Features",
+    "feat-content": {
+      "desc": "Meeting all of your requirements for SEO & branding",
+      "item1": "Receive real-time business analytics",
+      "item2": "Receive real-time business analytics",
+      "item3": "Receive real-time business analytics",
+      "item4": "Receive real-time business analytics",
+      "button": "Button",
+      "news": "What’s next in AeroLand?",
+      "learn": "Learn More"
+    },
+    "mission": "Our Mission"
+  }
 }
