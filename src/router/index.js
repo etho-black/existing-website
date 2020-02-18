@@ -1,4 +1,4 @@
-import HomeBranding from '../pages/HomeBranding'
+//import HomeBranding from '../pages/HomeBranding'
 import HomeSass from '../pages/HomeSass'
 import HomeSoftware from '../pages/HomeSoftware'
 import HomeStartUp from '../pages/HomeStartUp'
@@ -27,8 +27,8 @@ import NotFound from '../pages/elements/404'
 export const routes = [
     {
         path:'/',
-        name: 'HomeBranding',
-        component: HomeBranding
+        name: 'HomeStartUp',
+        component: HomeStartUp
     },
     {
         path:'/sass',
@@ -39,11 +39,6 @@ export const routes = [
         path:'/software',
         name: 'HomeSoftware',
         component: HomeSoftware
-    },
-    {
-        path:'/start-up',
-        name: 'HomeStartUp',
-        component: HomeStartUp
     },
     {
         path:'/app-landing',
@@ -140,7 +135,7 @@ export const routes = [
         name: 'ElementTestimonial',
         component: ElementTestimonial
     },
-    
+
     {
         path:'/element-counters',
         name: 'ElementCounters',
