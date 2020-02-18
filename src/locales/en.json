@@ -47,7 +47,7 @@
   },
 
   "team": {
-    "heading1": "Ether-1 Core Developers",
+    "heading1": "ETHO Black (Core Developer)",
     "james": "Dev-James",
     "james-role": "Founder & Core Developer",
     "fallen": "Ethan van Ballegooyen",
@@ -55,9 +55,11 @@
     "dylie": "Dylie",
     "dylie-role": "Core Developer",
     "dev": {
-      "heading1": "Ether-1 Developers",
+      "heading1": "Ether-1 Developer & Marketing Team",
       "exlo": "Exlo",
-      "exlo-role": "Developer"
+      "exlo-role": "Developer",
+      "yaya": "YaYa",
+      "yaya-role": "Marketing"
     },
     "council": {
       "heading1": "Ether-1 Council",
@@ -70,5 +72,14 @@
       "goose": "Goose",
       "chris": "Chris Terry"
     }
+  },
+
+  "nodes": {
+    "heading1": "Ether-1 Nodes",
+    "desc": "Ether-1 offer 3 tiers of nodes, Ether-1 Nodes are used to host the ethoFS platform.",
+    "requirements": "requirements",
+    "storage": "Of SSD/HDD Storage",
+    "ram": "Of Ram.",
+    "ip": "Static Public IPv4 Address."
   }
 }

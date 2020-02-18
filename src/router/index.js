@@ -4,8 +4,6 @@ import HomeSoftware from '../pages/HomeSoftware'
 import HomeStartUp from '../pages/HomeStartUp'
 import HomeAppLanding from '../pages/HomeAppLanding'
 import HomeShowcase from '../pages/HomeShowcase'
-import HomeEbook from '../pages/HomeEbook'
-import HomeClinic from '../pages/HomeClinic'
 import HomePayment from '../pages/HomePayment'
 import HomeAgency from '../pages/HomeAgency'
 import HomeProductShowcase from '../pages/HomeProductShowcase'
@@ -49,16 +47,6 @@ export const routes = [
         path:'/Showcase',
         name: 'HomeShowcase',
         component: HomeShowcase
-    },
-    {
-        path:'/ebook',
-        name: 'HomeEbook',
-        component: HomeEbook
-    },
-    {
-        path:'/clinic',
-        name: 'HomeClinic',
-        component: HomeClinic
     },
     {
         path:'/payment',

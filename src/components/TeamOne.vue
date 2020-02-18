@@ -13,7 +13,7 @@
         <div class="grid-item">
           <div class="ht-team-member text-center">
             <div class="team-image">
-              <img class="img-fluid" src="../assets/img/team/avatar-01.png" alt="">
+              <img class="img-fluid" src="../assets/img/team/james.png" alt="Dev-James">
             </div>
             <div class="team-info text-center">
               <h5 class="name">{{ $t('team.james') }}</h5>
@@ -34,7 +34,7 @@
         <div class="grid-item">
           <div class="ht-team-member text-center">
             <div class="team-image">
-              <img class="img-fluid" src="../assets/img/team/avatar-07.png" alt="">
+              <img class="img-fluid" src="../assets/img/team/fallen.png" alt="">
             </div>
             <div class="team-info text-center">
               <h5 class="name">{{ $t('team.fallen') }} </h5>
@@ -55,7 +55,7 @@
         <div class="grid-item">
           <div class="ht-team-member text-center">
             <div class="team-image">
-              <img class="img-fluid" src="../assets/img/team/avatar-05.png" alt="">
+              <img class="img-fluid" src="../assets/img/team/dylie.png" alt="">
             </div>
             <div class="team-info text-center">
               <h5 class="name">{{ $t('team.dylie') }} </h5>

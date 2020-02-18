@@ -70,11 +70,14 @@
   </div>
 
   <!-- team component -->
+  <div id="team"> </div>
   <TeamOne />
   <TeamDev />
   <TeamCouncil />
 
   <!-- tab conetent section -->
+  <PaymentPricingWrapper />
+
   <TabThree />
 
   <!-- brand carousel -->
@@ -104,7 +107,8 @@ import ContactForm from '../components/ContactForm'
 import CtaFour from '../components/CtaFour'
 import FooterMain from '../components/FooterMain'
 import TeamDev from '../components/TeamDev'
-import TeamCouncil from'../components/TeamCouncil'
+import TeamCouncil from '../components/TeamCouncil'
+import PaymentPricingWrapper from '@/components/sections/PaymentPricingWrapper'
 
 export default {
   name: 'app',
@@ -120,7 +124,8 @@ export default {
     CtaFour,
     FooterMain,
     TeamDev,
-    TeamCouncil
+    TeamCouncil,
+    PaymentPricingWrapper
   }
 }
 </script>
