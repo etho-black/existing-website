@@ -1,4 +1,5 @@
 module.exports = {
+  baseUrl: '',
   pluginOptions: {
     i18n: {
       locale: 'EN',

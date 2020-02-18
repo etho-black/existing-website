@@ -5,10 +5,10 @@
                 <i class="fas fa-bars"></i>
             </b-link>
             <b-navbar-brand class="navbar-brand logo-light mr-sm-auto" to="/">
-                <img :src='"../assets/img/logo/light-logo.png"' alt="logo">
+                <img :src='"../assets/img/logo/logo.svg"' alt="logo">
             </b-navbar-brand>
             <b-navbar-brand class="navbar-brand logo-dark mr-sm-auto" to="/">
-                <img :src='"../assets/img/logo/logo-dark.png"' alt="logo">
+                <img :src='"../assets/img/logo/logo.svg"' alt="logo">
             </b-navbar-brand>
             <b-btn-group class="header-button d-none d-sm-block">
                 <b-link class="btn">Purchase Now</b-link>

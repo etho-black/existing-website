@@ -3,10 +3,10 @@
   <div class="container-fluid container-fluid--cp-150">
     <b-navbar-toggle target="nav_collapse"></b-navbar-toggle>
     <b-navbar-brand class="navbar-brand logo-light" to="/branding">
-      <img :src='"../assets/img/logo/light-logo.png"' alt="logo">
+      <img :src='"../assets/img/logo/logo.svg"' alt="logo">
     </b-navbar-brand>
     <b-navbar-brand class="navbar-brand logo-dark" to="/branding">
-      <img :src='"../assets/img/logo/logo-dark.png"' alt="logo">
+      <img :src='"../assets/img/logo/logo.svg"' alt="logo">
     </b-navbar-brand>
     <b-collapse class="default-nav justify-content-center" is-nav id="nav_collapse">
       <b-navbar-nav class="navbar-nav main-menu text-white">

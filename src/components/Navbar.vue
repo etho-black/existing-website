@@ -2,7 +2,7 @@
     <b-navbar type="light" toggleable="xl" fixed="top" v-b-scrollspy:nav-scroller class="header-area" :class="{'is-sticky': scrolled}">
         <div class="container-fluid container-fluid--cp-150">
             <b-navbar-toggle target="nav_collapse"></b-navbar-toggle>
-            <b-navbar-brand class="navbar-brand" to="/"><img :src='"../assets/img/logo/logo-dark.png"' alt="logo"></b-navbar-brand>
+            <b-navbar-brand class="navbar-brand" to="/"><img :src='"../assets/img/logo/logo.svg"' alt="logo"></b-navbar-brand>
             <b-btn-group class="header-config-wrapper">
                 <b-btn class="header-config" @click="toggleClass('addClass', 'active')"><i class="far fa-search"></i></b-btn>
                 <b-link class="ht-btn ht-btn--outline hire-btn d-none d-xl-block">Hire Us Now</b-link>
