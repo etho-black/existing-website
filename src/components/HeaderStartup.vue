@@ -13,9 +13,10 @@
         <b-nav-item href="#home" class="scroll"><span>{{ $t('navbar.home') }}</span></b-nav-item>
         <b-nav-item href="#about" class="scroll"><span>{{ $t('navbar.about') }}</span></b-nav-item>
         <b-nav-item href="#team" class="scroll"><span>{{ $t('navbar.team') }}</span></b-nav-item>
-        <b-nav-item href="#contact" class="scroll"><span>{{ $t('navbar.explorer') }}</span></b-nav-item>
-        <b-nav-item href="#ethofs" class="scroll"><span>{{ $t('navbar.ethofs') }}</span></b-nav-item>
-        <b-nav-item href="https://explorer.ether1.org" class="scroll"><span>{{ $t('navbar.contact') }}</span></b-nav-item>
+        <b-nav-item href="#nodes" class="scroll"><span>{{ $t('navbar.nodes') }}</span></b-nav-item>
+        <b-nav-item href="#bpsaa" class="scroll"><span>{{ $t('navbar.bpsaa') }}</span></b-nav-item>
+        <b-nav-item href="https://explorer.ether1.org" class="scroll"><span>{{ $t('navbar.explorer') }}</span></b-nav-item>
+        <b-nav-item href="https://ethofs.com" class="scroll"><span>{{ $t('navbar.ethofs') }}</span></b-nav-item>
       </b-navbar-nav>
       <b-btn-group class="button--white">
         <ChangeLocal />

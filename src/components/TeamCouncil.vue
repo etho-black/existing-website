@@ -20,9 +20,9 @@
               <div class="position">{{ $t('team.council.role') }}</div>
               <div class="social-networks">
                 <div class="inner">
-                  <a href="#" class=" hint--bounce hint--top  hint--primary" aria-label="Github"><i class="fab fa-github"></i>
+                  <a href="https://github.com/Bigpiggy01" class=" hint--bounce hint--top  hint--primary" aria-label="Github"><i class="fab fa-github"></i>
                   </a>
-                  <a href="#" class=" hint--bounce hint--top hint--primary" aria-label="Twitter"><i class="fab fa-twitter"></i>
+                  <a href="https://twitter.com/bigpiggy01" class=" hint--bounce hint--top hint--primary" aria-label="Twitter"><i class="fab fa-twitter"></i>
                   </a>
                 </div>
               </div>
@@ -34,16 +34,14 @@
         <div class="grid-item">
           <div class="ht-team-member text-center">
             <div class="team-image">
-              <img class="img-fluid" src="../assets/img/team/avatar-07.png" alt="">
+              <img class="img-fluid" src="../assets/img/team/avatar-05.png" alt="">
             </div>
             <div class="team-info text-center">
               <h5 class="name">{{ $t('team.council.cable') }} </h5>
               <div class="position">{{ $t('team.council.role') }}</div>
               <div class="social-networks">
                 <div class="inner">
-                  <a href="#" class=" hint--bounce hint--top  hint--primary" aria-label="Github"><i class="fab fa-github"></i>
-                  </a>
-                  <a href="#" class=" hint--bounce hint--top hint--primary" aria-label="Twitter"><i class="fab fa-twitter"></i>
+                  <a href="https://github.com/qbvbsite" class=" hint--bounce hint--top  hint--primary" aria-label="Github"><i class="fab fa-github"></i>
                   </a>
                 </div>
               </div>
@@ -62,7 +60,7 @@
               <div class="position">{{ $t('team.council.role') }}</div>
               <div class="social-networks">
                 <div class="inner">
-                  <a href="#" class=" hint--bounce hint--top  hint--primary" aria-label="Github"><i class="fab fa-github"></i>
+                  <a href="https://github.com/hashratez" class=" hint--bounce hint--top  hint--primary" aria-label="Github"><i class="fab fa-github"></i>
                   </a>
                   <a href="https://twitter.com/chrisjterry" class=" hint--bounce hint--top hint--primary" aria-label="Twitter"><i class="fab fa-twitter"></i>
                   </a>
@@ -85,9 +83,9 @@
               <div class="position">{{ $t('team.council.role') }}</div>
               <div class="social-networks">
                 <div class="inner">
-                  <a href="#" class=" hint--bounce hint--top  hint--primary" aria-label="Github"><i class="fab fa-github"></i>
+                  <a href="https://github.com/dylie" class=" hint--bounce hint--top  hint--primary" aria-label="Github"><i class="fab fa-github"></i>
                   </a>
-                  <a href="#" class=" hint--bounce hint--top hint--primary" aria-label="Twitter"><i class="fab fa-twitter"></i>
+                  <a href="https://twitter.com/CryptoDylie" class=" hint--bounce hint--top hint--primary" aria-label="Twitter"><i class="fab fa-twitter"></i>
                   </a>
                 </div>
               </div>
@@ -99,16 +97,16 @@
         <div class="grid-item">
           <div class="ht-team-member text-center">
             <div class="team-image">
-              <img class="img-fluid" src="../assets/img/team/avatar-07.png" alt="">
+              <img class="img-fluid" src="../assets/img/team/avatar-05.png" alt="">
             </div>
             <div class="team-info text-center">
               <h5 class="name">{{ $t('team.council.goose') }}</h5>
               <div class="position">{{ $t('team.council.role') }}</div>
               <div class="social-networks">
                 <div class="inner">
-                  <a href="#" class=" hint--bounce hint--top  hint--primary" aria-label="Github"><i class="fab fa-github"></i>
+                  <a href="https://github.com/Goose-Tech" class=" hint--bounce hint--top  hint--primary" aria-label="Github"><i class="fab fa-github"></i>
                   </a>
-                  <a href="#" class=" hint--bounce hint--top hint--primary" aria-label="Twitter"><i class="fab fa-twitter"></i>
+                  <a href="https://twitter.com/GooseTech100" class=" hint--bounce hint--top hint--primary" aria-label="Twitter"><i class="fab fa-twitter"></i>
                   </a>
                 </div>
               </div>
@@ -127,9 +125,9 @@
               <div class="position">{{ $t('team.council.role') }}</div>
               <div class="social-networks">
                 <div class="inner">
-                  <a href="#" class=" hint--bounce hint--top  hint--primary" aria-label="Github"><i class="fab fa-github"></i>
+                  <a href="https://github.com/pistol22cal" class=" hint--bounce hint--top  hint--primary" aria-label="Github"><i class="fab fa-github"></i>
                   </a>
-                  <a href="#" class=" hint--bounce hint--top hint--primary" aria-label="Twitter"><i class="fab fa-twitter"></i>
+                  <a href="https://twitter.com/pistolcrypt" class=" hint--bounce hint--top hint--primary" aria-label="Twitter"><i class="fab fa-twitter"></i>
                   </a>
                 </div>
               </div>
@@ -150,9 +148,9 @@
               <div class="position">{{ $t('team.council.role') }}</div>
               <div class="social-networks">
                 <div class="inner">
-                  <a href="#" class=" hint--bounce hint--top  hint--primary" aria-label="Github"><i class="fab fa-github"></i>
+                  <a href="https://github.com/Primate411" class=" hint--bounce hint--top  hint--primary" aria-label="Github"><i class="fab fa-github"></i>
                   </a>
-                  <a href="#" class=" hint--bounce hint--top hint--primary" aria-label="Twitter"><i class="fab fa-twitter"></i>
+                  <a href="https://twitter.com/Primate411" class=" hint--bounce hint--top hint--primary" aria-label="Twitter"><i class="fab fa-twitter"></i>
                   </a>
                 </div>
               </div>

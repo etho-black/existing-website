@@ -4,7 +4,7 @@
     <div class="row">
       <div class="col-lg-12">
         <div class="section-title text-center section-space--mb_60">
-          <h2 class="font-weight--light mb-15">{{ $t('team.heading1') }}</h2>
+          <a href="https://etho.black"><h2 class="font-weight--light mb-15">{{ $t('team.heading1') }}</h2></a>
         </div>
       </div>
     </div>
@@ -20,9 +20,9 @@
               <div class="position">{{ $t('team.james-role') }}</div>
               <div class="social-networks">
                 <div class="inner">
-                  <a href="#" class=" hint--bounce hint--top  hint--primary" aria-label="Github"><i class="fab fa-github"></i>
+                  <a href="https://github.com/Dev-JamesR" class=" hint--bounce hint--top  hint--primary" aria-label="Github"><i class="fab fa-github"></i>
                   </a>
-                  <a href="#" class=" hint--bounce hint--top hint--primary" aria-label="Twitter"><i class="fab fa-twitter"></i>
+                  <a href="https://twitter.com/jamespreilly" class=" hint--bounce hint--top hint--primary" aria-label="Twitter"><i class="fab fa-twitter"></i>
                   </a>
                 </div>
               </div>
@@ -34,16 +34,16 @@
         <div class="grid-item">
           <div class="ht-team-member text-center">
             <div class="team-image">
-              <img class="img-fluid" src="../assets/img/team/fallen.png" alt="">
+              <img class="img-fluid" src="../assets/img/team/fallen.png" alt="FallenGravity">
             </div>
             <div class="team-info text-center">
               <h5 class="name">{{ $t('team.fallen') }} </h5>
               <div class="position">{{ $t('team.fallen-role') }}</div>
               <div class="social-networks">
                 <div class="inner">
-                  <a href="#" class=" hint--bounce hint--top  hint--primary" aria-label="Github"><i class="fab fa-github"></i>
+                  <a href="https://github.com/fallengravity" class=" hint--bounce hint--top  hint--primary" aria-label="Github"><i class="fab fa-github"></i>
                   </a>
-                  <a href="#" class=" hint--bounce hint--top hint--primary" aria-label="Twitter"><i class="fab fa-twitter"></i>
+                  <a href="https://twitter.com/FallenGrav1ty" class=" hint--bounce hint--top hint--primary" aria-label="Twitter"><i class="fab fa-twitter"></i>
                   </a>
                 </div>
               </div>
@@ -55,16 +55,16 @@
         <div class="grid-item">
           <div class="ht-team-member text-center">
             <div class="team-image">
-              <img class="img-fluid" src="../assets/img/team/dylie.png" alt="">
+              <img class="img-fluid" src="../assets/img/team/dylie.png" alt="Dylie">
             </div>
             <div class="team-info text-center">
               <h5 class="name">{{ $t('team.dylie') }} </h5>
               <div class="position">{{ $t('team.dylie-role') }}</div>
               <div class="social-networks">
                 <div class="inner">
-                  <a href="#" class=" hint--bounce hint--top  hint--primary" aria-label="Github"><i class="fab fa-github"></i>
+                  <a href="https://github.com/dylie" class=" hint--bounce hint--top  hint--primary" aria-label="Github"><i class="fab fa-github"></i>
                   </a>
-                  <a href="#" class=" hint--bounce hint--top hint--primary" aria-label="Twitter"><i class="fab fa-twitter"></i>
+                  <a href="https://twitter.com/CryptoDylie" class=" hint--bounce hint--top hint--primary" aria-label="Twitter"><i class="fab fa-twitter"></i>
                   </a>
                 </div>
               </div>

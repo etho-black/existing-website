@@ -10,14 +10,16 @@
     "team": "TEAM",
     "ethofs": "ETHOFS",
     "contact": "CONTACT US",
-    "explorer": "EXPLORER"
+    "explorer": "EXPLORER",
+    "bpsaa": "BPSAA",
+    "nodes": "NODES"
   },
 
   "hero": {
     "heading1": "Get Your Sites!!!",
     "heading2": "A Kickstart Now!",
     "small-desc": "There’s no need to be a technical professional to create sites with AeroLand. With simple guides, everything is easy!",
-    "button": "Try ethoFS"
+    "button": "TALK TO US"
   },
 
   "about": {
@@ -47,7 +49,7 @@
   },
 
   "team": {
-    "heading1": "ETHO Black (Core Developer)",
+    "heading1": "ETHO Black (Core Developers)",
     "james": "Dev-James",
     "james-role": "Founder & Core Developer",
     "fallen": "Ethan van Ballegooyen",
@@ -55,9 +57,11 @@
     "dylie": "Dylie",
     "dylie-role": "Core Developer",
     "dev": {
-      "heading1": "Ether-1 Developer & Marketing Team",
+      "heading1": "Ether-1 Developer, Management & Marketing Team",
       "exlo": "Exlo",
       "exlo-role": "Developer",
+      "tree": "Treehouse",
+      "tree-role": "Management",
       "yaya": "YaYa",
       "yaya-role": "Marketing"
     },
@@ -81,5 +85,18 @@
     "storage": "Of SSD/HDD Storage",
     "ram": "Of Ram.",
     "ip": "Static Public IPv4 Address."
+  },
+
+  "bpsaa": {
+    "bpsaa": "Ether-1 is a BPSAA Member.",
+    "desc": "The Blockchain Privacy, Security & Adoption Alliance (BPSAA) sets the standard for collaboration and the products and services produced. We create solutions that allow us to accomplish our personal project goals, as well as create interoperability between our ecosystem’s products and services"
+  },
+
+  "footer": {
+    "location": "Our Team Is Located Across The Globe.",
+    "email": "admin@ether1.org",
+    "heading1": "Who we are",
+    "heading2": "Quick links",
+    "copyright": "© 2020 Ether-1. All Rights Reserved."
   }
 }

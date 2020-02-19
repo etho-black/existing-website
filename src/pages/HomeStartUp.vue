@@ -11,7 +11,7 @@
 
   <!-- service area  -->
   <CurveShape class="no-height">
-    <template v-slot:bgcolor>
+    <template v-slot:bgcolor style="padding-top: 20px;">
       <path style="fill: #ffffff;
                     stroke-miterlimit:10;" d="M3360.5,97.739c-242,0-480-48.375-480-48.375
                         S2647.5,0.5,2400.5,0.5s-480,48.375-480,48.375s-238,48.864-480,48.864s-480-48.375-480-48.375S727.5,0.5,480.5,0.5
@@ -19,42 +19,6 @@
     </template>
   </CurveShape>
 
-  <!--<div class="start-ups-feature startup-about-feature section-space--pt_120 section-space--pb_60 " id="about">
-    <div class="container">
-      <div class="section-title-wrapper text-center section-space--mb_60">
-        <h2 class="section-title mb-30 wow move-up">We’ve created enticing designs for<br>startups and new businesses</h2>
-        <div class="video-button-container video-popup">
-          <silentbox-single src="https://www.youtube.com/watch?v=9No-FiEInLA">
-            <div class="video-play">
-              <i class="fa fa-play-circle"></i>
-              <span class="video-text">INTRO & DEMO VIDEO</span>
-            </div>
-          </silentbox-single>
-        </div>
-      </div>
-      <StartUpFeatureTwo />
-    </div>
-  </div>-->
-
-  <!-- start up feature
-  <div class="start-ups-feature" id="platform">
-    <div class="container">
-      <div class="section-title text-center section-space--mb_60">
-        <h2 class="font-weight--bold mb-15 wow move-up">Present over 50 platforms</h2>
-        <span class="section-text wow move-up">We are present over a wide range of social media</span>
-      </div>
-      <StartUpFeature />
-    </div>
-  </div>-->
-
-  <!-- call to action
-  <div class="ht-start-up-section-bg">
-    <div class="cta-image-area_one section-space--pt_60">
-      <CtaOne />
-    </div>
-  </div>-->
-
-  <!-- tab conetent section -->
   <div class="tabs-wrapper startup-tab section-space--mt_30 section-space--pb_120" id="about">
     <div class="container">
       <div class="row">
@@ -64,32 +28,21 @@
           </div>
         </div>
       </div>
-      <!-- tab components -->
       <TabOne />
     </div>
   </div>
 
-  <!-- team component -->
   <div id="team"> </div>
   <TeamOne />
   <TeamDev />
   <TeamCouncil />
 
-  <!-- tab conetent section -->
+  <div id="nodes"> </div>
   <PaymentPricingWrapper />
 
-  <TabThree />
-
-  <!-- brand carousel -->
+  <div id="bpsaa"> </div>
   <CarouselStartup />
 
-  <!-- contact form section -->
-  <ContactForm />
-
-  <!-- call to action  -->
-  <CtaFour />
-
-  <!-- footer section -->
   <FooterMain FooterStyle="bg_drak-footer" />
 
 </div>
@@ -101,10 +54,7 @@ import HeroStartup from '../components/HeroStartup'
 import CurveShape from '../components/CurveShape'
 import TabOne from '../components/TabOne'
 import TeamOne from '../components/TeamOne'
-import TabThree from '../components/TabThree'
 import CarouselStartup from '../components/CarouselStartup'
-import ContactForm from '../components/ContactForm'
-import CtaFour from '../components/CtaFour'
 import FooterMain from '../components/FooterMain'
 import TeamDev from '../components/TeamDev'
 import TeamCouncil from '../components/TeamCouncil'
@@ -118,10 +68,7 @@ export default {
     CurveShape,
     TabOne,
     TeamOne,
-    TabThree,
     CarouselStartup,
-    ContactForm,
-    CtaFour,
     FooterMain,
     TeamDev,
     TeamCouncil,
