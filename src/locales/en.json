@@ -27,14 +27,14 @@
     "heading2": "landing your success.",
     "features": "ethoFS Features",
     "feat-content": {
-      "desc": "Meeting all of your requirements for SEO & branding",
-      "item1": "Receive real-time business analytics",
-      "item2": "Receive real-time business analytics",
-      "item3": "Receive real-time business analytics",
-      "item4": "Receive real-time business analytics",
-      "button": "Button",
-      "news": "What’s next in AeroLand?",
-      "learn": "Learn More"
+      "desc": "ethoFS combines the Ether-1 Service/Master/Gateway Node Network with IPFS to deliver decentralized content on a scale not seen before. Users are able to upload content or a website via a simple UI which is decentrally hosted with ethoFS.",
+      "item1": "Decentralized",
+      "item2": "Censorship Resistant",
+      "item3": "Highly Replicated",
+      "item4": "DDoS Resistant",
+      "button": "Try ethoFS",
+      "news": "Want to see what we're working on?",
+      "learn": "Vist us"
     },
 
     "mission": "Our Mission",
@@ -42,7 +42,7 @@
     "missions": {
       "heading1": "The best ways",
       "heading2": "to create websites",
-      "body": "We bring on like-minded and talented members to help you grow a stronger business for fiercely reaching towards higher goals every day.",
+      "body": "Ether-1's mission is to bring content hosting and use together to service the same people who also provide the service. ethoFS aims to be a content hosting platform that is usable by anyone and where anyone can have a voice.",
       "button": "Button"
     }
 

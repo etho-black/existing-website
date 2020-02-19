@@ -22,21 +22,22 @@ import 'slick-carousel/slick/slick.css'
 Vue.config.productionTip = false
 Vue.config.productionSourceMap = false
 
-import { routes } from './router/index'
+import {
+  routes
+} from './router/index'
 import i18n from './i18n'
 
 const router = new VueRouter({
-    routes,
-    mode: 'history'
+  routes,
+  mode: 'history'
 })
 
 
 new Vue({
-    render: h => h(App),
-    router,
-    i18n,
-
-    mounted(){
-        new WOW().init();
-    }
+  render: h => h(App),
+  router,
+  i18n,
+  mounted() {
+    new WOW().init();
+  }
 }).$mount('#app')
