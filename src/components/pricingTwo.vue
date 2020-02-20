@@ -8,7 +8,7 @@
         </div>
         <h5 class="pricing-table__title">Service Node</h5>
         <div class="pricing-table__price-wrap">
-          <h6 class="price">5000 ETHO</h6>
+          <h6 class="price" style="color: #840032">5000 ETHO</h6>
         </div>
       </div>
       <h5 class="pricing-table__title">Service Node {{ $t('nodes.requirements') }}:</h5>
@@ -29,7 +29,7 @@
         </div>
         <h5 class="pricing-table__title">Master Node</h5>
         <div class="pricing-table__price-wrap">
-          <h6 class="price">15000 ETHO</h6>
+          <h6 class="price" style="color: #840032">15000 ETHO</h6>
         </div>
       </div>
       <h5 class="pricing-table__title">Master Node {{ $t('nodes.requirements') }}:</h5>
@@ -50,7 +50,7 @@
         </div>
         <h5 class="pricing-table__title">Gatewat Node</h5>
         <div class="pricing-table__price-wrap">
-          <h6 class="price" id="sn">30000 ETHO</h6>
+          <h6 class="price" style="color: #840032">30000 ETHO</h6>
         </div>
       </div>
       <h5 class="pricing-table__title">Gateway Node {{ $t('nodes.requirements') }}:</h5>
@@ -81,3 +81,12 @@ export default {
   },
 }
 </script>
+<style>
+li {
+  color: #000;
+}
+
+.price {
+  color: #000;
+}
+</style>
