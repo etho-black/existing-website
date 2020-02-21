@@ -98,7 +98,7 @@
           <li class="list-item">{{$t('about.feat-content.item4')}} </li>
         </ul>
         <div class="tab-button mb-30">
-          <a href="#" class="ht-btn ht-btn-md">{{$t('about.feat-content.button')}} </a>
+          <a href="https://ethofs.com" class="ht-btn ht-btn-md">{{$t('about.feat-content.button')}} </a>
         </div>
         <h6 class="sub-heading">{{$t('about.feat-content.news')}} <a href="https://github.com/Ether1Project" class="hover-style-link hover-style-link--green">{{$t('about.feat-content.learn')}}</a></h6>
       </div>

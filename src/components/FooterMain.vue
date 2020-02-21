@@ -18,41 +18,30 @@
         <div class="col-lg-2 col-md-6 footer-widget">
           <h6 class="footer-widget__title mb-20">{{ $t('footer.heading1') }}</h6>
           <ul class="footer-widget__list">
-            <li><a href="#" class="hover-style-link">About us</a></li>
-            <li><a href="#" class="hover-style-link">Before you go</a></li>
-            <li><a href="#" class="hover-style-link">Online check in</a></li>
-            <li><a href="#" class="hover-style-link">FAQ</a></li>
+            <li><a href="https://control.cloud.co.za/aff.php?aff=61" class="hover-style-link">{{ $t('footer.vps1') }}</a></li>
+            <li><a href="https://m.do.co/c/3d164b7256f7" class="hover-style-link">{{ $t('footer.vps2') }}</a></li>
+            <li><a href="https://www.vultr.com/?ref=7613496" class="hover-style-link">{{ $t('footer.vps3') }}</a></li>
+            <li><a href="https://www.hetzner.com/" class="hover-style-link">{{ $t('footer.vps4') }}</a></li>
+            <li><a href="https://contabo.com/" class="hover-style-link">{{ $t('footer.vps5') }}</a></li>
           </ul>
         </div>
         <div class="col-lg-2 col-md-6 footer-widget">
           <h6 class="footer-widget__title mb-20">{{ $t('footer.heading2') }}</h6>
           <ul class="footer-widget__list">
-            <li><a href="#" class="hover-style-link">Pick up locations</a></li>
-            <li><a href="#" class="hover-style-link">Terms of Payment</a></li>
-            <li><a href="#" class="hover-style-link">Privacy Policy</a></li>
-            <li><a href="#" class="hover-style-link">Where to Find Us</a></li>
+            <li><a href="https://explorer.ether1.org/" class="hover-style-link">{{ $t('footer.link1') }}</a></li>
+            <li><a href="https://blocks.ether1.org/" class="hover-style-link">{{ $t('footer.link2') }}</a></li>
+            <li><a href="https://ethofs.com" class="hover-style-link">{{ $t('footer.link3') }}</a></li>
+            <li><a href="https://docs.ether1.cloud" class="hover-style-link">{{ $t('footer.link4') }}</a></li>
+            <li><a href="https://nodes.ether1.org" class="hover-style-link">{{ $t('footer.link5') }}</a></li>
           </ul>
         </div>
-        <div class="col-lg-3 col-md-6 offset-lg-1 footer-widget">
-          <div class="twitter-feed-slider">
-            <div class="swiper-container twitter-feed-slider__container">
-              <div class="swiper-wrapper twitter-feed-slider__wrapper">
-                <div class="swiper-slide twitter-feed-slider__single">
-                  <div class="tweet">
-                    <div class="tweet__text">
-                      "The ocean never ceases to amaze!" Feature: Ben Klea
-                      <a href="https://t.co/jSRMsZAdPW" target="_blank">https://t.co/jSRMsZAdPW</a>
-                      <a href="https://t.co/2iDReuyPMt" target="_blank">https://t.co/2iDReuyPMt</a>
-                    </div>
-                    <div class="tweet__info">
-                      <h6 class="tweet__heading">Unsplash</h6>
-                      <span class="tweet__date">May 07, 2020</span>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
+        <div class="col-lg-2 col-md-6 footer-widget">
+          <h6 class="footer-widget__title mb-20">{{ $t('footer.heading3') }}</h6>
+          <ul class="footer-widget__list">
+            <li><a href="https://etho.black" class="hover-style-link">{{ $t('footer.enclave1') }}</a></li>
+            <li><a href="https://ether1.cloud" class="hover-style-link">{{ $t('footer.enclave2') }}</a></li>
+            <li><a href="https://etholabs.org" class="hover-style-link">{{ $t('footer.enclave3') }}</a></li>
+          </ul>
         </div>
       </div>
     </div>

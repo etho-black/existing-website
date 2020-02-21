@@ -3,13 +3,10 @@
 
   <router-view></router-view>
 
-  <!-- Navbar section -->
   <HeaderStartup />
 
-  <!-- hero section -->
   <HeroStartup />
 
-  <!-- service area  -->
   <CurveShape class="no-height">
     <template v-slot:bgcolor style="padding-top: 20px;">
       <path style="fill: #ffffff;
@@ -19,7 +16,8 @@
     </template>
   </CurveShape>
 
-  <div class="tabs-wrapper startup-tab section-space--mt_30 section-space--pb_120" id="about">
+  <div id="about"></div>
+  <div class="tabs-wrapper startup-tab section-space--mt_30 section-space--pb_120">
     <div class="container">
       <div class="row">
         <div class="col-lg-12">
@@ -40,6 +38,9 @@
   <div id="nodes"> </div>
   <PaymentPricingWrapper />
 
+  <div id="exchanges"></div>
+  <Exchanges />
+
   <div id="bpsaa"> </div>
   <CarouselStartup />
 
@@ -59,6 +60,7 @@ import FooterMain from '../components/FooterMain'
 import TeamDev from '../components/TeamDev'
 import TeamCouncil from '../components/TeamCouncil'
 import PaymentPricingWrapper from '@/components/sections/PaymentPricingWrapper'
+import Exchanges from '@/components/Exchanges'
 
 export default {
   name: 'app',
@@ -72,6 +74,7 @@ export default {
     FooterMain,
     TeamDev,
     TeamCouncil,
+    Exchanges,
     PaymentPricingWrapper
   }
 }

@@ -5,9 +5,8 @@
       <div class="col-12">
         <div class="section-title text-center section-space--mb_30">
           <h2 class="font-weight--bold mb-15 wow move-up">
-            <img src="../assets/img/bpsaa/logo.png" class="img-fluid" alt="brand logo">
-            {{ $t('bpsaa.bpsaa') }}</h2>
-          <span class="section-text wow move-up">{{ $t('bpsaa.desc') }}</span>
+            {{ $t('exchanges.heading1') }}</h2>
+          <span class="section-text wow move-up">{{ $t('exchanges.desc') }}</span>
         </div>
       </div>
     </div>
@@ -19,22 +18,30 @@
               <swiper :options="swiperOption">
                 <div class="swiper-slide">
                   <div class="brand-logo mb-0 wow move-up">
-                    <a href="https://pirate.black/"><img src="../assets/img/bpsaa/pirate.png" class="img-fluid" alt="brand logo"></a>
+                    <a href="https://cryptowolf.eu/">
+                      <img src="../assets/img/exchanges/cw.png" class="img-fluid" alt="brand logo" style="width: 175px; height: 50px; margin-top: 40px">
+                    </a>
                   </div>
                 </div>
                 <div class="swiper-slide">
                   <div class="brand-logo mb-0 wow move-up">
-                    <a href="https://www.turtlenetwork.eu/"><img src="../assets/img/bpsaa/turtle.png" class="img-fluid" alt="brand logo"></a>
+                    <a href="https://mercatox.com/?referrer=467736">
+                      <img src="../assets/img/exchanges/merc.png" class="img-fluid" alt="brand logo" style="width: 255px; height: 50px; margin-top: 40px">
+                    </a>
                   </div>
                 </div>
                 <div class="swiper-slide">
                   <div class="brand-logo mb-0 wow move-up">
-                    <a href="https://sentinel.co/"><img src="../assets/img/bpsaa/sentinel.png" class="img-fluid" alt="brand logo"></a>
+                    <a href="https://graviex.net/signup?ref=9e850883e0016283f7b75f8f">
+                      <img src="../assets/img/exchanges/graviex.png" class="img-fluid" alt="brand logo" style="width: 150px; height: 127.5px;">
+                    </a>
                   </div>
                 </div>
                 <div class="swiper-slide">
                   <div class="brand-logo mb-0 wow move-up">
-                    <img src="../assets/img/logo/logo2.svg" class="img-fluid" alt="brand logo" style="width: 255px; height: 127.5px;">
+                    <a href="https://app.stex.com?ref=fallengravity">
+                      <img src="../assets/img/exchanges/stex.svg" class="img-fluid" alt="brand logo" style="width: 255px; height: 127.5px;">
+                    </a>
                   </div>
                 </div>
               </swiper>
@@ -49,7 +56,7 @@
 
 <script>
 export default {
-  name: 'CarouselStartup',
+  name: 'exchanges',
   data() {
     return {
       swiperOption: {

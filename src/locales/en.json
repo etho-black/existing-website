@@ -12,7 +12,9 @@
     "contact": "CONTACT US",
     "explorer": "EXPLORER",
     "bpsaa": "BPSAA",
-    "nodes": "NODES"
+    "nodes": "NODES",
+    "node-dash": "NODE DASHBOARD",
+    "exchanges": "EXCHANGES"
   },
 
   "hero": {
@@ -40,10 +42,9 @@
     "mission": "Our Mission",
 
     "missions": {
-      "heading1": "The best ways",
-      "heading2": "to create websites",
-      "body": "Ether-1's mission is to bring content hosting and use together to service the same people who also provide the service. ethoFS aims to be a content hosting platform that is usable by anyone and where anyone can have a voice.",
-      "button": "Button"
+      "heading1": "Decentralize",
+      "heading2": "Everything.",
+      "body": "Ether-1's mission is to bring content hosting and use together to service the same people who also provide the service. ethoFS aims to be a content hosting platform that is usable by anyone and where anyone can have a voice."
     }
 
   },
@@ -95,8 +96,27 @@
   "footer": {
     "location": "Our Team Is Located Across The Globe.",
     "email": "admin@ether1.org",
-    "heading1": "Who we are",
+    "heading1": "VPS Providers:",
     "heading2": "Quick links",
+    "heading3": "Ether-1 Enclaves",
+    "vps1": "VPS.co.za",
+    "vps2": "Digital Ocean",
+    "vps3": "Vultr",
+    "vps4": "Hetzner",
+    "vps5": "Contabo",
+    "link1": "Explorer (NEW)",
+    "link2": "Explorer (OLD)",
+    "link3": "ethoFS",
+    "link4": "Documentation",
+    "link5": "Node Dashboard",
+    "enclave1": "ETHO Black (Core System Developers)",
+    "enclave2": "Ether-1 Cloud (Documentation and Intergration Developers)",
+    "enclave3": "ethoLABS (dApp Developers)",
     "copyright": "© 2020 Ether-1. All Rights Reserved."
+  },
+
+  "exchanges": {
+    "heading1": "Exchanges",
+    "desc": "Below are a list of exchanges where you can purchase or sell ETHO."
   }
 }

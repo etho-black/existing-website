@@ -1,13 +1,10 @@
 //import HomeBranding from '../pages/HomeBranding'
-import HomeSass from '../pages/HomeSass'
 import HomeSoftware from '../pages/HomeSoftware'
 import HomeStartUp from '../pages/HomeStartUp'
-import HomeAppLanding from '../pages/HomeAppLanding'
 import HomeShowcase from '../pages/HomeShowcase'
 import HomePayment from '../pages/HomePayment'
 import HomeAgency from '../pages/HomeAgency'
 import HomeProductShowcase from '../pages/HomeProductShowcase'
-import ElementTabs from '../pages/elements/ElementTabs'
 import ElementAccordion from '../pages/elements/ElementAccordion'
 import ElementGradation from '../pages/elements/ElementGradation'
 import ElementBoxIcon from '../pages/elements/ElementBoxIcon'
@@ -29,19 +26,9 @@ export const routes = [
         component: HomeStartUp
     },
     {
-        path:'/sass',
-        name: 'HomeSass',
-        component: HomeSass
-    },
-    {
         path:'/software',
         name: 'HomeSoftware',
         component: HomeSoftware
-    },
-    {
-        path:'/app-landing',
-        name: 'HomeAppLanding',
-        component: HomeAppLanding
     },
     {
         path:'/Showcase',
@@ -62,11 +49,6 @@ export const routes = [
         path:'/product-showcase',
         name: 'HomeProductShowcase',
         component: HomeProductShowcase
-    },
-    {
-        path:'/element-tab',
-        name: 'ElementTabs',
-        component: ElementTabs
     },
     {
         path:'/element-accordion',
