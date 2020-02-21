@@ -1,9 +1,11 @@
-export const publicPath = '';
-export const pluginOptions = {
-  i18n: {
-    locale: 'EN',
-    fallbackLocale: 'EN',
-    localeDir: 'locales',
-    enableInSFC: false
+module.exports = {
+  publicPath: '',
+  pluginOptions: {
+    i18n: {
+      locale: 'EN',
+      fallbackLocale: 'EN',
+      localeDir: 'locales',
+      enableInSFC: false
+    }
   }
-};
+}

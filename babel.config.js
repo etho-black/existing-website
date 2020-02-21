@@ -1,8 +1,10 @@
-export const presets = [
+module.exports = {
+  presets: [
     ['@vue/app', {
-        polyfills: [
-            'es6.promise',
-            'es6.symbol'
-        ]
+      polyfills: [
+        'es6.promise',
+        'es6.symbol'
+      ]
     }]
-];
+  ]
+}
