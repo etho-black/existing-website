@@ -9,7 +9,7 @@ $transition--default: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
 $gradient--default: linear-gradient(218deg,#5E61E7 0,#9C7AF2 50%,#5E61E7 100%);
 $gradient--default-two: linear-gradient(-259deg,#5E60E7 0,#9C7AF2 65%);
 $gradient--secondary: linear-gradient(-180deg,#fff 0,#eceefa 100%);
-$gray-gradient: -webkit-linear-gradient(top,#FFF 0,#F6F5F9 74%,#F6F5F9 100%);
+$gray-gradient: -webkit-linear-gradient(to bottom,#FFF 0,#F6F5F9 74%,#F6F5F9 100%);
 // Font Family
 $font-family-name: Rubik, Helvetica, Arial, sans-serif;
 $heading-font-family-name: Rubik, Helvetica, Arial, sans-serif;

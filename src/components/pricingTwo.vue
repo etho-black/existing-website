@@ -4,7 +4,7 @@
     <div class="pricing-table__inner">
       <div class="pricing-table__header">
         <div class="pricing-table__image">
-          <img src="../assets/img/pricing/aeroland-pricing-image-06.png" class="img-fluid" alt="Pricing Thumb">
+          <img src="../assets/img/other/server1.svg" class="img-fluid" alt="Service Node">
         </div>
         <h5 class="pricing-table__title">Service Node</h5>
         <div class="pricing-table__price-wrap">
@@ -25,7 +25,7 @@
     <div class="pricing-table__inner">
       <div class="pricing-table__header">
         <div class="pricing-table__image">
-          <img src="../assets/img/pricing/aeroland-pricing-image-06.png" class="img-fluid" alt="Pricing Thumb">
+          <img src="../assets/img/other/server2.svg" class="img-fluid" alt="Pricing Thumb">
         </div>
         <h5 class="pricing-table__title">Master Node</h5>
         <div class="pricing-table__price-wrap">
@@ -46,7 +46,7 @@
     <div class="pricing-table__inner">
       <div class="pricing-table__header">
         <div class="pricing-table__image">
-          <img src="../assets/img/pricing/aeroland-pricing-image-06.png" class="img-fluid" alt="Pricing Thumb">
+          <img src="../assets/img/other/server3.svg" class="img-fluid" alt="Pricing Thumb">
         </div>
         <h5 class="pricing-table__title">Gatewat Node</h5>
         <div class="pricing-table__price-wrap">
@@ -71,13 +71,6 @@ export default {
   name: 'pricingTwo',
   data() {
     return {}
-  },
-  methods: {
-    getMarkers: function() {
-    },
-    created() {
-      this.getMarkers()
-    }
   },
 }
 </script>

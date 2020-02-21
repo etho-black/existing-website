@@ -268,11 +268,11 @@
 
 .body-gradient {
     background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #F6F5F9), color-stop(60%, #FFF));
-    background: -moz-linear-gradient(top, #F6F5F9 0, #FFF 60%);
-    background: -webkit-linear-gradient(top, #F6F5F9 0, #FFF 60%);
-    background: -o-linear-gradient(top, #F6F5F9 0, #FFF 60%);
-    background: -ms-linear-gradient(top, #F6F5F9 0, #FFF 60%);
-    background: linear-gradient(top, #F6F5F9 0, #FFF 60%);
+    background: -moz-linear-gradient(to bottom, #F6F5F9 0, #FFF 60%);
+    background: -webkit-linear-gradient(to bottom, #F6F5F9 0, #FFF 60%);
+    background: -o-linear-gradient(to bottom, #F6F5F9 0, #FFF 60%);
+    background: -ms-linear-gradient(to bottom, #F6F5F9 0, #FFF 60%);
+    background: linear-gradient(to bottom, #F6F5F9 0, #FFF 60%);
 }
 
 
