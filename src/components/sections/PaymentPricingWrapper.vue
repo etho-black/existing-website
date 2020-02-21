@@ -1,16 +1,5 @@
 <template>
-<div class="payment-staps-pricing_wrapper payment-pricing-table-bg" id="pricing-section">
-  <div class="position-relative section-space--pb_120">
-
-    <div class="section-spartor_svg_02  vc_row-separator tilt_left bottom"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" preserveAspectRatio="none" viewBox="0 0 4 0.266661">
-        <linearGradient id="svg-fill-5d3ab43082011">
-          <stop offset="0%" stop-color="#8481ec"></stop>
-          <stop offset="100%" stop-color="#a890f2"></stop>
-        </linearGradient>
-        <polygon points="4,0 4,0.266661 -0,0.266661" fill="url( #svg-fill-5d3ab43082011 )"></polygon>
-      </svg>
-    </div>
-  </div>
+<div class="payment-staps-pricing_wrapper payment-pricing-table-bg">
 
   <!--========= Pricing  Table Area ===========-->
   <div class="pricing-table-area section-space--pb_120 position-relative" id="pricing">
@@ -26,14 +15,6 @@
         </div>
       </div>
 
-      <div class="section-spartor_svg_02 vc_row-separator tilt_right top"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" preserveAspectRatio="none" viewBox="0 0 4 0.266661">
-          <linearGradient id="svg-fill-5d3ab430835b4">
-            <stop offset="0%" stop-color="#a890f2"></stop>
-            <stop offset="100%" stop-color="#8481ec"></stop>
-          </linearGradient>
-          <polygon points="4,0 4,0.266661 -0,0.266661" fill="url( #svg-fill-5d3ab430835b4 )"></polygon>
-        </svg>
-      </div>
     </div>
 
     <div class="pricing-table-content-area">
