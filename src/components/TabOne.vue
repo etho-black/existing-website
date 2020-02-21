@@ -16,14 +16,12 @@
 <script>
 import TabContentOne from '../components/TabContentOne'
 import TabContentTwo from '../components/TabContentTwo'
-import TabContentThree from '../components/TabContentThree'
 
 export default {
   name: 'TabOne',
   components: {
     TabContentOne,
-    TabContentTwo,
-    TabContentThree
+    TabContentTwo
   }
 };
 </script>

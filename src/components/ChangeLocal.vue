@@ -14,16 +14,14 @@ export default {
   }
 }
 </script>
+
 <style>
+
 select:after {
-
-display: none;
-
+  display: none;
 };
 
 option:after {
-
-display: none;
-
-}
+  display: none;
+};
 </style>
