@@ -9,7 +9,7 @@ export default {
   name: 'locale-changer',
   data() {
     return {
-      langs: ['EN', 'NO']
+      langs: ['EN', 'NO', 'NL', 'FR']
     }
   }
 }

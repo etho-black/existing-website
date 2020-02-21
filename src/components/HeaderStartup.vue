@@ -2,10 +2,10 @@
 <b-navbar toggleable="xl" fixed="top" v-b-scrollspy:nav-scroller class="header-area text-white" :class="{'is-sticky': scrolled}">
   <div class="container-fluid container-fluid--cp-150">
     <b-navbar-toggle target="nav_collapse"></b-navbar-toggle>
-    <b-navbar-brand class="navbar-brand logo-light" to="/branding">
+    <b-navbar-brand class="navbar-brand logo-light" to="/">
       <img :src='"../assets/img/logo/logo.svg"' alt="logo">
     </b-navbar-brand>
-    <b-navbar-brand class="navbar-brand logo-dark" to="/branding">
+    <b-navbar-brand class="navbar-brand logo-dark" to="/">
       <img :src='"../assets/img/logo/logo.svg"' alt="logo">
     </b-navbar-brand>
     <b-collapse class="default-nav justify-content-center" is-nav id="nav_collapse">
