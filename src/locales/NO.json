@@ -1,20 +1,20 @@
 {
   "name": "Ether-1",
-  "slogan": "Decentralize Everything",
+  "slogan": "Desentraliser Alt",
   "description": "",
-  "language": "Language: ",
+  "language": "Språk: ",
 
   "navbar": {
-    "home": "HOME",
-    "about": "ABOUT US",
+    "home": "HJEM",
+    "about": "OM OSS",
     "team": "TEAM",
     "ethofs": "ETHOFS",
-    "contact": "CONTACT US",
+    "contact": "KONTAKT OSS",
     "explorer": "EXPLORER",
     "bpsaa": "BPSAA",
-    "nodes": "NODES",
+    "nodes": "NODER",
     "node-dash": "NODE DASHBOARD",
-    "exchanges": "EXCHANGES"
+    "exchanges": "MARKEDSPLASS"
   },
 
   "hero": {
@@ -25,50 +25,50 @@
   },
 
   "about": {
-    "heading1": "We design powerful websites for ",
-    "heading2": "landing your success.",
-    "features": "ethoFS Features",
+    "heading1": "Vi designer imponerende websider slik at du ",
+    "heading2": "kan oppnå suksess.",
+    "features": "ethoFS Funksjoner",
     "feat-content": {
-      "desc": "ethoFS combines the Ether-1 Service/Master/Gateway Node Network with IPFS to deliver decentralized content on a scale not seen before. Users are able to upload content or a website via a simple UI which is decentrally hosted with ethoFS.",
-      "item1": "Decentralized",
-      "item2": "Censorship Resistant",
-      "item3": "Highly Replicated",
+      "desc": "ethoFS kombinerer Ether-1 Service/Master/Gateway Node Network med IPFS for å levere desentralisert innhold i en skala som ikke er sett før. Brukere er i stand til å laste opp innhold eller et nettsted via ett enkel brukergrensesnitt som er desentralisert lagret med ethoFS.",
+      "item1": "Desentralisert",
+      "item2": "Sensurbestandig",
+      "item3": "Sikkert Dirstibuert",
       "item4": "DDoS Resistant",
-      "button": "Try ethoFS",
-      "news": "Want to see what we're working on?",
-      "learn": "Vist us"
+      "button": "Prøv ethoFS",
+      "news": "Vil du se hva vi jobber med?",
+      "learn": "Besøk oss"
     },
 
-    "mission": "Our Mission",
+    "mission": "Vårt Mål",
 
     "missions": {
-      "heading1": "Decentralize",
-      "heading2": "Everything.",
-      "body": "Ether-1's mission is to bring content hosting and use together to service the same people who also provide the service. ethoFS aims to be a content hosting platform that is usable by anyone and where anyone can have a voice."
+      "heading1": "Desentraliser",
+      "heading2": "Alt.",
+      "body": "Ether-1's oppgave er å levere lagringsplass for innhold som også skal brukes sammen med de samme menneskene som leverer tjenesten. ethoFS har som mål å være en plattform for innhold som kan brukes av alle, hvor alle kan ha en stemme."
     }
 
   },
 
   "team": {
-    "heading1": "ETHO Black (Core Developers)",
+    "heading1": "ETHO Black (Hoved Utviklere)",
     "james": "Dev-James",
-    "james-role": "Founder & Core Developer",
+    "james-role": "Grunnlegger og Hoved Utvikler",
     "fallen": "Ethan van Ballegooyen",
-    "fallen-role": "Core Developer",
+    "fallen-role": "Hoved Utvikler",
     "dylie": "Dylie",
-    "dylie-role": "Core Developer",
+    "dylie-role": "Hoved Utvikler",
     "dev": {
-      "heading1": "Ether-1 Developer, Management & Marketing Team",
+      "heading1": "Ether-1 Utvikler, Ledelse og Markedsføring Team",
       "exlo": "Exlo",
-      "exlo-role": "Developer",
+      "exlo-role": "Utvikler",
       "tree": "Treehouse",
-      "tree-role": "Management",
+      "tree-role": "Ledelse",
       "yaya": "YaYa",
-      "yaya-role": "Marketing"
+      "yaya-role": "Markedsføring"
     },
     "council": {
-      "heading1": "Ether-1 Council",
-      "role": "Ether-1 Provisional Council Member",
+      "heading1": "Ether-1 Råd",
+      "role": "Ether-1 Foreløpige rådsmedlemmer",
       "primate": "Primate",
       "pistol": "Pistol",
       "cable": "CableGod",
@@ -80,25 +80,25 @@
   },
 
   "nodes": {
-    "heading1": "Ether-1 Nodes",
-    "desc": "Ether-1 offer 3 tiers of nodes, Ether-1 Nodes are used to host the ethoFS platform.",
-    "requirements": "requirements",
-    "storage": "Of SSD/HDD Storage",
-    "ram": "Of Ram.",
-    "ip": "Static Public IPv4 Address."
+    "heading1": "Ether-1 Noder",
+    "desc": "Ether-1 tilbyr 3 nivåer med noder, Ether-1 Noder brukes til å være host for ethoFS-plattformen.",
+    "requirements": "krav",
+    "storage": "Av SSD/HDD Lagringsplass",
+    "ram": "Av Ram.",
+    "ip": "Statisk Offentlig IPv4 Addresse."
   },
 
   "bpsaa": {
-    "bpsaa": "Ether-1 is a BPSAA Member.",
-    "desc": "The Blockchain Privacy, Security & Adoption Alliance (BPSAA) sets the standard for collaboration and the products and services produced. We create solutions that allow us to accomplish our personal project goals, as well as create interoperability between our ecosystem’s products and services"
+    "bpsaa": "Ether-1 er ett BPSAA Medlem.",
+    "desc": "Blockchain Privacy, Security & Adoption Alliance (BPSAA) setter standarden for samarbeid og produktene og tjenestene som produseres. Vi lager løsninger som lar oss nå våre personlige prosjektmål, samt skape interoperabilitet mellom økosystemets produkter og tjenester"
   },
 
   "footer": {
-    "location": "Our Team Is Located Across The Globe.",
+    "location": "Vårt team befinner seg i ulike deler iverden.",
     "email": "admin@ether1.org",
-    "heading1": "VPS Providers:",
-    "heading2": "Quick links",
-    "heading3": "Ether-1 Enclaves",
+    "heading1": "VPS-leverandører:",
+    "heading2": "Linker",
+    "heading3": "Ether-1 Enklaver",
     "vps1": "VPS.co.za",
     "vps2": "Digital Ocean",
     "vps3": "Vultr",
@@ -107,16 +107,16 @@
     "link1": "Explorer (NEW)",
     "link2": "Explorer (OLD)",
     "link3": "ethoFS",
-    "link4": "Documentation",
+    "link4": "Dokumentasjon",
     "link5": "Node Dashboard",
-    "enclave1": "ETHO Black (Core System Developers)",
-    "enclave2": "Ether-1 Cloud (Documentation and Intergration Developers)",
-    "enclave3": "ethoLABS (dApp Developers)",
-    "copyright": "© 2020 Ether-1. All Rights Reserved."
+    "enclave1": "ETHO Black (Hoved System Utviklere)",
+    "enclave2": "Ether-1 Cloud (Dokumentasjon og Integrerings Utviklere)",
+    "enclave3": "ethoLABS (dApp Utviklere)",
+    "copyright": "© 2020 Ether-1. Alle Rettigheter Forbeholdt."
   },
 
   "exchanges": {
-    "heading1": "Exchanges",
-    "desc": "Below are a list of exchanges where you can purchase or sell ETHO."
+    "heading1": "Markedsplasser",
+    "desc": "Nedenfor er en liste over maredsplasser hvor du kan kjøpe eller selge ETHO."
   }
 }
