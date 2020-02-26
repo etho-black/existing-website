@@ -56,7 +56,7 @@
         <div class="pricing-table__image">
           <img src="../assets/img/other/server3.svg" class="img-fluid" alt="Pricing Thumb">
         </div>
-        <h5 class="pricing-table__title">Gatewat Node</h5>
+        <h5 class="pricing-table__title">Gateway Node</h5>
         <div class="pricing-table__price-wrap">
           <h6 class="price" id="sn">30000 ETHO</h6>
         </div>
