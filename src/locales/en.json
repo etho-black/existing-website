@@ -85,7 +85,10 @@
     "requirements": "requirements",
     "storage": "Of SSD/HDD Storage",
     "ram": "Of Ram.",
-    "ip": "Static Public IPv4 Address."
+    "ip": "Static Public IPv4 Address.",
+    "sn": "Service Nodes act as a data relay and secure the Ether-1 blockchain.",
+    "mn": "Master Nodes provide storage and processing resources to the network and secure the Ether-1 blockchain.",
+    "gn": "Gateway Nodes provide storage and processing resources to the network, secure the Ether-1 blockchain, and act a gateway to decentrally hosted ethoFS data on the network."
   },
 
   "bpsaa": {
