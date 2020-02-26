@@ -3,7 +3,7 @@
   <div class="container-fluid container-fluid--cp-150">
     <b-navbar-toggle target="nav_collapse"></b-navbar-toggle>
     <b-navbar-brand class="navbar-brand logo-light" to="/">
-      <img :src='"../assets/img/logo/logo.svg"' alt="logo">
+      <img class="mobile" :src='"../assets/img/logo/logo.svg"' alt="logo">
     </b-navbar-brand>
     <b-navbar-brand class="navbar-brand logo-dark" to="/">
       <img :src='"../assets/img/logo/logo.svg"' alt="logo">
@@ -101,3 +101,11 @@ export default {
   },
 }
 </script>
+
+<style>
+@media (max-width:629px) {
+  .mobile {
+    display: none;
+  }
+}
+</style>

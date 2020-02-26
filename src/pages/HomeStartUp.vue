@@ -22,7 +22,7 @@
       <div class="row">
         <div class="col-lg-12">
           <div class="section-title-wrapper text-center section-space--mb_60 wow move-up">
-            <h2 class="section-title font-weight--bold mb-15">{{ $t('about.heading1') }}<br>{{ $t('about.heading2') }}</h2>
+            <h2 class="section-title font-weight--bold mb-15" style="font-size: 28px">{{ $t('about.heading1') }}<br>{{ $t('about.heading2') }}</h2>
           </div>
         </div>
       </div>

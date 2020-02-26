@@ -18,15 +18,15 @@
   },
 
   "hero": {
-    "heading1": "Get Your Sites!!!",
-    "heading2": "A Kickstart Now!",
-    "small-desc": "There’s no need to be a technical professional to create sites with AeroLand. With simple guides, everything is easy!",
+    "heading1": "Ether-1:",
+    "heading2": "#DecentralizeEverything",
+    "small-desc": "Imagine a world where content was completely held in the public domain, hosted by the public and was 100% immutable.  The idea of a completely decentralized, democratized and community hosted internet is not only a utopian dream but is now achievable by us.",
     "button": "TALK TO US"
   },
 
   "about": {
-    "heading1": "We design powerful websites for ",
-    "heading2": "landing your success.",
+    "heading1": "Decentralized blockchain, decentralized file & website hosting, ",
+    "heading2": "decentralized governance.",
     "features": "ethoFS Features",
     "feat-content": {
       "desc": "ethoFS combines the Ether-1 Service/Master/Gateway Node Network with IPFS to deliver decentralized content on a scale not seen before. Users are able to upload content or a website via a simple UI which is decentrally hosted with ethoFS.",
