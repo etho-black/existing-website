@@ -1,15 +1,15 @@
 {
   "name": "Ether-1",
-  "slogan": "Decentralize Everything",
+  "slogan": "Decentralisatie voor alles!",
   "description": "",
   "language": "Language: ",
 
   "navbar": {
     "home": "HOME",
-    "about": "ABOUT US",
+    "about": "OVER ONS",
     "team": "TEAM",
     "ethofs": "ETHOFS",
-    "contact": "CONTACT US",
+    "contact": "CONTACTEER ONS",
     "explorer": "EXPLORER",
     "bpsaa": "BPSAA",
     "nodes": "NODES",
@@ -18,57 +18,57 @@
   },
 
   "hero": {
-    "heading1": "Get Your Sites!!!",
-    "heading2": "A Kickstart Now!",
-    "small-desc": "There’s no need to be a technical professional to create sites with AeroLand. With simple guides, everything is easy!",
-    "button": "TALK TO US"
+    "heading1": "Ether-1:",
+    "heading2": "#DecentralizeEverything",
+    "small-desc": "Imagine a world where content was completely held in the public domain, hosted by the public and was 100% immutable.  The idea of a completely decentralized, democratized and community hosted internet is not only a utopian dream but is now achievable by us.",
+    "button": "PRAAT MET ONS"
   },
 
   "about": {
-    "heading1": "We design powerful websites for ",
-    "heading2": "landing your success.",
-    "features": "ethoFS Features",
+    "heading1": "Decentralized blockchain, decentralized file & website hosting, ",
+    "heading2": "decentralized governance.",
+    "features": "ethoFS Mogelijkheden",
     "feat-content": {
-      "desc": "ethoFS combines the Ether-1 Service/Master/Gateway Node Network with IPFS to deliver decentralized content on a scale not seen before. Users are able to upload content or a website via a simple UI which is decentrally hosted with ethoFS.",
-      "item1": "Decentralized",
-      "item2": "Censorship Resistant",
-      "item3": "Highly Replicated",
-      "item4": "DDoS Resistant",
-      "button": "Try ethoFS",
-      "news": "Want to see what we're working on?",
-      "learn": "Visit us"
+      "desc": "ethoFS combineert het Ether-1 Service / Master / Gateway Node Netwerk met IPFS technologie, dit om gedecentraliseerde inhoud te leveren op een schaal die nog nooit eerder werd gezien. Gebruikers kunnen inhoud of een gehele website uploaden via onze eenvoudige gebruikersinterface die volledig wordt gehost met ethoFS. Dit alles voor volledige decentralisatie.",
+      "item1": "Decentralisatie",
+      "item2": "Jij hebt volledige controle",
+      "item3": "Bestanden verspreid over het node netwerk",
+      "item4": "DDoS bestendig",
+      "button": "Probeer ethoFS",
+      "news": "Meer weten over waar wij aan werken?",
+      "learn": "Neem een kijkje!"
     },
 
-    "mission": "Our Mission",
+    "mission": "Onze missie",
 
     "missions": {
-      "heading1": "Decentralize",
-      "heading2": "Everything.",
-      "body": "Ether-1's mission is to bring content hosting and use together to service the same people who also provide the service. ethoFS aims to be a content hosting platform that is usable by anyone and where anyone can have a voice."
+      "heading1": "Decentralisatie",
+      "heading2": "Is alles.",
+      "body": "Ether-1's missie is om contenthosting en gebruik samen te brengen en om dezelfde mensen te bedienen die ook de service zelf leveren. Het doel van ethoFS is om een contenthostingplatform te zijn dat door iedereen kan worden gebruikt en waar iedereen een stem heeft."
     }
 
   },
 
   "team": {
-    "heading1": "ETHO Black (Core Developers)",
+    "heading1": "ETHO Black (Hoofd Ontwikkelaars)",
     "james": "Dev-James",
-    "james-role": "Founder & Core Developer",
+    "james-role": "Oprichter & Hoofd Ontwikkelaar",
     "fallen": "Ethan van Ballegooyen",
-    "fallen-role": "Core Developer",
+    "fallen-role": "Hoofd Ontwikkelaar",
     "dylie": "Dylie",
-    "dylie-role": "Core Developer",
+    "dylie-role": "Hoofd Ontwikkelaar",
     "dev": {
-      "heading1": "Ether-1 Developer, Management & Marketing Team",
+      "heading1": "Ether-1 Ontwikkelaar, Service Beheer & Marketing Team",
       "exlo": "Exlo",
-      "exlo-role": "Developer",
+      "exlo-role": "Ontwikkelaar",
       "tree": "Treehouse",
-      "tree-role": "Management",
+      "tree-role": "Service Beheer",
       "yaya": "YaYa",
       "yaya-role": "Marketing"
     },
     "council": {
-      "heading1": "Ether-1 Council",
-      "role": "Ether-1 Provisional Council Member",
+      "heading1": "Ether-1 Raad",
+      "role": "Ether-1 Tijdelijk Raadslid",
       "primate": "Primate",
       "pistol": "Pistol",
       "cable": "CableGod",
@@ -81,24 +81,24 @@
 
   "nodes": {
     "heading1": "Ether-1 Nodes",
-    "desc": "Ether-1 offer 3 tiers of nodes, Ether-1 Nodes are used to host the ethoFS platform.",
-    "requirements": "requirements",
-    "storage": "Of SSD/HDD Storage",
-    "ram": "Of Ram.",
-    "ip": "Static Public IPv4 Address."
+    "desc": "Ether-1 biedt 3 node types aan, Ether-1 Nodes worden gebruiken om het ethoFS platform te hosten.",
+    "requirements": "Benodigdheden",
+    "storage": "SSD/HDD Opslag",
+    "ram": "Ram/Werkgeheugen.",
+    "ip": "Statisch Publiek IPv4 Adres."
   },
 
   "bpsaa": {
-    "bpsaa": "Ether-1 is a BPSAA Member.",
-    "desc": "The Blockchain Privacy, Security & Adoption Alliance (BPSAA) sets the standard for collaboration and the products and services produced. We create solutions that allow us to accomplish our personal project goals, as well as create interoperability between our ecosystem’s products and services"
+    "bpsaa": "Ether-1 maakt deel uit van de BPSAA.",
+    "desc": "The Blockchain Privacy, Security & Adoption Alliance (BPSAA) bepaalt de standaard voor samenwerking en de geproduceerde producten en diensten. We creëren oplossingen waarmee we onze persoonlijke projectdoelen kunnen bereiken, evenals interoperabiliteit tussen de producten en diensten van ons ecosysteem"
   },
 
   "footer": {
-    "location": "Our Team Is Located Across The Globe.",
+    "location": "Ons team is wereldwijd actief.",
     "email": "admin@ether1.org",
-    "heading1": "VPS Providers:",
-    "heading2": "Quick links",
-    "heading3": "Ether-1 Enclaves",
+    "heading1": "VPS Aanbieders:",
+    "heading2": "Snelle links",
+    "heading3": "Ether-1 Teams",
     "vps1": "VPS.co.za",
     "vps2": "Digital Ocean",
     "vps3": "Vultr",
@@ -109,14 +109,14 @@
     "link3": "ethoFS",
     "link4": "Documentation",
     "link5": "Node Dashboard",
-    "enclave1": "ETHO Black (Core System Developers)",
-    "enclave2": "Ether-1 Cloud (Documentation and Intergration Developers)",
-    "enclave3": "ethoLABS (dApp Developers)",
-    "copyright": "© 2020 Ether-1. All Rights Reserved."
+    "enclave1": "ETHO Black (Systeem Ontwikkelaars)",
+    "enclave2": "Ether-1 Cloud (Documentatie en Integratie Ontwikkelaars)",
+    "enclave3": "ethoLABS (dApp Ontwikkelaars)",
+    "copyright": "© 2020 Ether-1. Alle Rechten Voorbehouden."
   },
 
   "exchanges": {
     "heading1": "Exchanges",
-    "desc": "Below are a list of exchanges where you can purchase or sell ETHO."
+    "desc": "Hieronder vindt u een lijst met exchanges waar u ETHO kan kopen of verkopen."
   }
 }
