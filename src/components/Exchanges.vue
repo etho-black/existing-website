@@ -44,6 +44,13 @@
                     </a>
                   </div>
                 </div>
+                <div class="swiper-slide">
+                  <div class="brand-logo mb-0 wow move-up">
+                    <a href="https://asymetrex.com?ref=255">
+                      <img src="../assets/img/exchanges/asymetrex.png" class="img-fluid" alt="brand logo" style="width: 255px; height: 50px; margin-top: 40px">
+                    </a>
+                  </div>
+                </div>
               </swiper>
             </div>
           </div>
