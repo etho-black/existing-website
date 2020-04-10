@@ -28,9 +28,9 @@
         <div class="col-lg-2 col-md-6 footer-widget">
           <h6 class="footer-widget__title mb-20">{{ $t('footer.heading2') }}</h6>
           <ul class="footer-widget__list">
-            <li><a href="https://explorer.ether1.org/" class="hover-style-link">{{ $t('footer.link1') }}</a></li>
+            <li><a href="whitepaper.pdf" class="hover-style-link">Whitepaper</a></li>
+            <li><a href="https://github.com/etho-black/ethopay" class="hover-style-link">ETHOPay</a></li>
             <li><a href="https://blocks.ether1.org/" class="hover-style-link">{{ $t('footer.link2') }}</a></li>
-            <li><a href="https://ethofs.com" class="hover-style-link">{{ $t('footer.link3') }}</a></li>
             <li><a href="https://docs.ether1.cloud" class="hover-style-link">{{ $t('footer.link4') }}</a></li>
             <li><a href="https://nodes.ether1.org" class="hover-style-link">{{ $t('footer.link5') }}</a></li>
           </ul>
