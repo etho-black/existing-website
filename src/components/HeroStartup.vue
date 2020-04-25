@@ -7,7 +7,9 @@
           <h2 class="h1 hero-content-title">{{ $t('hero.heading1') }}<br> {{ $t('hero.heading2') }}</h2>
           <h6 class="hero-content-subtitle mt-20 dec" style="font-size: 16px">{{ $t('hero.small-desc') }}</h6>
           <div class="slider-button mt-30">
-            <a href="https://discordapp.com/invite/MFn9Tmz" class="btn btn--green"><i class="fab fa-discord"></i> {{ $t('hero.button') }}</a>
+            <a href="https://discordapp.com/invite/MFn9Tmz" class="btn btn--green">
+              <i class="fab fa-discord"></i>
+              {{ $t('hero.button') }}</a>
           </div>
         </div>
       </div>
