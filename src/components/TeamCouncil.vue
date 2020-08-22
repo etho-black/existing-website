@@ -136,29 +136,6 @@
         </div>
       </div>
     </div>
-    <div class="row">
-      <div class="col-lg-12 col-md-12">
-        <div class="grid-item">
-          <div class="ht-team-member text-center">
-            <div class="team-image">
-              <img class="img-fluid" src="../assets/img/team/primate.png" alt="Primate">
-            </div>
-            <div class="team-info text-center">
-              <h5 class="name">{{ $t('team.council.primate') }}</h5>
-              <div class="position">{{ $t('team.council.role') }}</div>
-              <div class="social-networks">
-                <div class="inner">
-                  <a href="https://github.com/Primate411" class=" hint--bounce hint--top  hint--primary" aria-label="Github"><i class="fab fa-github"></i>
-                  </a>
-                  <a href="https://twitter.com/Primate411" class=" hint--bounce hint--top hint--primary" aria-label="Twitter"><i class="fab fa-twitter"></i>
-                  </a>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
   </div>
 </div>
 </template>
