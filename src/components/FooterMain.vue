@@ -39,7 +39,6 @@
           <h6 class="footer-widget__title mb-20">{{ $t('footer.heading3') }}</h6>
           <ul class="footer-widget__list">
             <li><a href="https://etho.black" class="hover-style-link">{{ $t('footer.enclave1') }}</a></li>
-            <li><a href="https://ether1.cloud" class="hover-style-link">{{ $t('footer.enclave2') }}</a></li>
             <li><a href="https://etholabs.org" class="hover-style-link">{{ $t('footer.enclave3') }}</a></li>
           </ul>
         </div>

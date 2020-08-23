@@ -30,6 +30,20 @@
     </div>
   </div>
 
+  <div id="about"></div>
+  <div class="tabs-wrapper startup-tab section-space--mt_30 section-space--pb_120">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-12">
+          <div class="section-title-wrapper text-center section-space--mb_60 wow move-up">
+            <h2 class="section-title font-weight--bold mb-15" style="font-size: 28px">The Ether-1 Mobile Wallet.</h2>
+          </div>
+        </div>
+      </div>
+      <Wallet />
+    </div>
+  </div>
+
   <div id="team"> </div>
   <TeamOne />
   <TeamDev />
@@ -61,6 +75,7 @@ import TeamDev from '../components/TeamDev'
 import TeamCouncil from '../components/TeamCouncil'
 import PaymentPricingWrapper from '@/components/sections/PaymentPricingWrapper'
 import Exchanges from '@/components/Exchanges'
+import Wallet from '@/components/Wallet'
 
 export default {
   name: 'app',
@@ -75,7 +90,8 @@ export default {
     TeamDev,
     TeamCouncil,
     Exchanges,
-    PaymentPricingWrapper
+    PaymentPricingWrapper,
+    Wallet
   }
 }
 </script>
