@@ -22,16 +22,16 @@
         <b-nav-item href="#nodes" class="scroll">
           <span>{{ $t('navbar.nodes') }}</span>
         </b-nav-item>
-        <b-nav-item href="https://nodes.ether1.org">
+        <b-nav-item @click="openNodes">
           <span>{{ $t('navbar.node-dash') }}</span>
         </b-nav-item>
-        <b-nav-item href="https://wallet.ether1.org" class="scroll">
+        <b-nav-item @click="openWebWallet">
           <span>{{ $t('navbar.web') }}</span>
         </b-nav-item>
-        <b-nav-item href="https://github.com/Ether1Project/Ether1DesktopWallet" class="scroll">
+        <b-nav-item @click="openDesktopWallet" class="scroll">
           <span>{{ $t('navbar.desk') }}</span>
         </b-nav-item>
-        <b-nav-item href="https://explorer.ether1.org">
+        <b-nav-item @click="openExplorer">
           <span>{{ $t('navbar.explorer') }}</span>
         </b-nav-item>
       </b-navbar-nav>
@@ -60,7 +60,7 @@ export default {
     }
   },
   mounted() {
-    (function() {
+    (function () {
       scrollTo();
     })();
 
@@ -81,7 +81,7 @@ export default {
         left: 0,
         behavior: 'smooth'
       });
-      const checkIfDone = setInterval(function() {
+      const checkIfDone = setInterval(function () {
         const atBottom = window.innerHeight + window.pageYOffset >= document.body.offsetHeight - 190;
         if (distanceToTop(targetAnchor) === 0 || atBottom) {
           targetAnchor.tabIndex = '-1';
@@ -93,6 +93,18 @@ export default {
     }
   },
   methods: {
+    openNodes: function () {
+      window.open("https://nodes.ether1.org", "_blank");
+    },
+    openWebWallet: function () {
+      window.open("https://wallet.ether1.org", "_blank");
+    },
+    openDesktopWallet: function () {
+      window.open("https://github.com/Ether1Project/Ether1DesktopWallet", "_blank");
+    },
+    openExplorer: function () {
+      window.open("https://explorer.ether1.org", "_blank");
+    },
     // sticky menu script
     handleScroll() {
       if (this.lastPosition < window.scrollY && this.limitPosition < window.scrollY) {
