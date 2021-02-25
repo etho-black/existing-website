@@ -13,8 +13,8 @@
         <b-nav-item href="#home" class="scroll">
           <span>{{ $t('navbar.home') }}</span>
         </b-nav-item>
-        <b-nav-item href="#about" class="scroll">
-          <span>{{ $t('navbar.about') }}</span>
+        <b-nav-item href="#bridges" class="scroll">
+          <span>{{ $t('navbar.bridges') }}</span>
         </b-nav-item>
         <b-nav-item href="#team" class="scroll">
           <span>{{ $t('navbar.team') }}</span>

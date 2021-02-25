@@ -17,7 +17,8 @@
     "exchanges": "EXCHANGES",
     "desk": "DESKTOP WALLET",
     "web": "WEB WALLET",
-    "staking": "STAKING"
+    "staking": "STAKING",
+    "bridges": "BRIDGES/SWAPS"
   },
 
   "hero": {
