@@ -15,10 +15,10 @@
     "nodes": "NODER",
     "node-dash": "NODE DASHBOARD",
     "exchanges": "MARKEDSPLASS",
-    "desk": "DESKTOP WALLET",
-    "web": "WEB WALLET",
+    "desk": "DESKTOP LOMMEBOK",
+    "web": "WEB LOMMEBOK",
     "staking": "STAKING",
-    "bridges": "BRIDGES/SWAPS"
+    "bridges": "BROER/SWAPS"
   },
 
   "hero": {
@@ -129,11 +129,11 @@
     "desc": "Nedenfor er en liste over markedsplasser hvor du kan kjøpe eller selge ETHO."
   },
   "bridges": {
-    "heading1": "Blockchain Bridges",
+    "heading1": "Blokkjede Broer",
     "desc": "Nedenfor er en liste over broer som kan brukes til å flytte ETHO mellom brokjedene."
   },
   "swaps": {
     "heading1": "Swaps",
-    "desc": "Nedenfor er en liste over desentraliserte bytteplattformer som kan brukes til å bytte innpakket ETHO-eiendel."
+    "desc": "Nedenfor er en liste over desentraliserte swap plattformer som kan brukes til å bytte innpakket ETHO."
   }
 }
