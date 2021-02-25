@@ -55,6 +55,12 @@
   <div id="exchanges"></div>
   <Exchanges />
 
+  <div id="bridges"></div>
+  <Bridges />
+
+  <div id="swaps"></div>
+  <Swaps />
+
   <div id="bpsaa"> </div>
   <CarouselStartup />
 
@@ -75,6 +81,8 @@ import TeamDev from '../components/TeamDev'
 import TeamCouncil from '../components/TeamCouncil'
 import PaymentPricingWrapper from '@/components/sections/PaymentPricingWrapper'
 import Exchanges from '@/components/Exchanges'
+import Bridges from '@/components/Bridges'
+import Swaps from '@/components/Swaps'
 import Wallet from '@/components/Wallet'
 
 export default {
@@ -90,6 +98,8 @@ export default {
     TeamDev,
     TeamCouncil,
     Exchanges,
+    Bridges,
+    Swaps,
     PaymentPricingWrapper,
     Wallet
   }

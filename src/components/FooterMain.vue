@@ -30,9 +30,11 @@
           <ul class="footer-widget__list">
             <li><a href="whitepaper.pdf" class="hover-style-link">Whitepaper</a></li>
             <li><a href="https://github.com/etho-black/ethopay" class="hover-style-link">ETHOPay</a></li>
+            <li><a href="https://explorer.ether1.org/" class="hover-style-link">{{ $t('footer.link6') }}</a></li>
             <li><a href="https://blocks.ether1.org/" class="hover-style-link">{{ $t('footer.link2') }}</a></li>
-            <li><a href="https://docs.ether1.cloud" class="hover-style-link">{{ $t('footer.link4') }}</a></li>
+            <li><a href="https://docs.ether1.org" class="hover-style-link">{{ $t('footer.link4') }}</a></li>
             <li><a href="https://nodes.ether1.org" class="hover-style-link">{{ $t('footer.link5') }}</a></li>
+            <li><a href="https://bitcointalk.org/index.php?topic=3725742.0" class="hover-style-link">{{ $t('footer.link7') }}</a></li>
           </ul>
         </div>
         <div class="col-lg-2 col-md-6 footer-widget">

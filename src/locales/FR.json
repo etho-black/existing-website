@@ -16,7 +16,8 @@
     "node-dash": "NODE DASHBOARD",
     "exchanges": "EXCHANGES",
     "desk": "DESKTOP WALLET",
-    "web": "WEB WALLET"
+    "web": "WEB WALLET",
+    "staking": "STAKING"
   },
 
   "hero": {
@@ -114,6 +115,8 @@
     "link3": "ethoFS",
     "link4": "Documentation",
     "link5": "Node Dashboard",
+    "link6": "Explorer",
+    "link7": "Bitcointalk Thread",
     "enclave1": "ETHO Black (Core System Developers)",
     "enclave2": "Ether-1 Cloud (Documentation and Intergration Developers)",
     "enclave3": "ethoLABS (dApp Developers)",
@@ -123,5 +126,13 @@
   "exchanges": {
     "heading1": "Exchanges",
     "desc": "Below are a list of exchanges where you can purchase or sell ETHO."
+  },
+  "bridges": {
+    "heading1": "Blockchain Bridges",
+    "desc": "Below are a list of bridges that can be utilized for moving ETHO between bridged blockchains."
+  },
+  "swaps": {
+    "heading1": "Swaps",
+    "desc": "Below are a list of decentralized swapping platforms that can be utilized to swap wrapped ETHO assets."
   }
 }

@@ -34,6 +34,9 @@
         <b-nav-item @click="openExplorer">
           <span>{{ $t('navbar.explorer') }}</span>
         </b-nav-item>
+        <b-nav-item @click="openStaking">
+          <span>{{ $t('navbar.staking') }}</span>
+        </b-nav-item>
       </b-navbar-nav>
       <b-btn-group class="button--white">
         <ChangeLocal />
@@ -93,6 +96,9 @@ export default {
     }
   },
   methods: {
+    openStaking: function () {
+      window.open("https://staking.ethofs.com", "_blank");
+    },
     openNodes: function () {
       window.open("https://nodes.ether1.org", "_blank");
     },

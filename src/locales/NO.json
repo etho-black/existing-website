@@ -16,7 +16,8 @@
     "node-dash": "NODE DASHBOARD",
     "exchanges": "MARKEDSPLASS",
     "desk": "DESKTOP WALLET",
-    "web": "WEB WALLET"
+    "web": "WEB WALLET",
+    "staking": "STAKING"
   },
 
   "hero": {
@@ -114,6 +115,8 @@
     "link3": "ethoFS",
     "link4": "Dokumentasjon",
     "link5": "Node Dashboard",
+    "link6": "Explorer",
+    "link7": "Bitcointalk Thread",
     "enclave1": "ETHO Black (Hoved System Utviklere)",
     "enclave2": "Ether-1 Cloud (Dokumentasjon og Integrerings Utviklere)",
     "enclave3": "ethoLABS (dApp Utviklere)",
@@ -123,5 +126,13 @@
   "exchanges": {
     "heading1": "Markedsplasser",
     "desc": "Nedenfor er en liste over markedsplasser hvor du kan kjøpe eller selge ETHO."
+  },
+  "bridges": {
+    "heading1": "Blockchain Bridges",
+    "desc": "Nedenfor er en liste over broer som kan brukes til å flytte ETHO mellom brokjedene."
+  },
+  "swaps": {
+    "heading1": "Swaps",
+    "desc": "Nedenfor er en liste over desentraliserte bytteplattformer som kan brukes til å bytte innpakket ETHO-eiendel."
   }
 }
