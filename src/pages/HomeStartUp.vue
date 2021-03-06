@@ -64,6 +64,9 @@
   <div id="bpsaa"> </div>
   <CarouselStartup />
 
+  <div id="partners"></div>
+  <Partners />
+
   <FooterMain FooterStyle="bg_drak-footer" />
 
 </div>
@@ -84,6 +87,7 @@ import Exchanges from '@/components/Exchanges'
 import Bridges from '@/components/Bridges'
 import Swaps from '@/components/Swaps'
 import Wallet from '@/components/Wallet'
+import Partners from '@/components/Partners'
 
 export default {
   name: 'app',
@@ -101,7 +105,8 @@ export default {
     Bridges,
     Swaps,
     PaymentPricingWrapper,
-    Wallet
+    Wallet,
+    Partners
   }
 }
 </script>

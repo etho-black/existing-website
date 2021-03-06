@@ -46,6 +46,9 @@
       "body": "Ether-1's mission is to bring content hosting and use together to service the same people who also provide the service. ethoFS aims to be a content hosting platform that is usable by anyone and where anyone can have a voice."
     }
   },
+  "partners": {
+    "heading1": "Ether-1 Partners"
+  },
   "team": {
     "heading1": "ETHO Black (Core Developers)",
     "james": "Dev-James",
