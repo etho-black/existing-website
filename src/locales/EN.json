@@ -65,7 +65,8 @@
       "tree-role": "Management",
       "yaya": "YaYa",
       "yaya-role": "Marketing",
-      "legacy": "Legacytrx"
+      "legacy": "Legacytrx",
+      "newCodeRunner": "NewCodeRunner"
     },
     "council": {
       "heading1": "Ether-1 Council",
